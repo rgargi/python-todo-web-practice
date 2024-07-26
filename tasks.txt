@@ -1,0 +1,6 @@
+Acquire a map
+Buy a wand
+Buy Books
+Buy a horse
+Buy an Owl
+Buy Coffee
